@@ -1,5 +1,5 @@
-remote_theme: pmarsceill/just-the-docs
-title: AICS Documentation
+theme: jekyll-theme-minimal
+title: AICS Tool Documentation
 logo: "/assets/images/logo.png"
 include:
   - assets/css/custom.css

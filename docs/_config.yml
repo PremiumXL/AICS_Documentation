@@ -1,2 +1,5 @@
-theme: jekyll-theme-minimal
-title: AICS Tool Documentation
+remote_theme: just-the-docs/just-the-docs
+title: AICS Documentation
+include:
+  - assets/css/custom.css
+

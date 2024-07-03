@@ -1,6 +1,12 @@
-# AICS Tool Documentation
+---
+layout: default
+title: Home
+nav_order: 1
+---
 
-Welcome to the AICS (AI Customer Support) documentation.
+# AICS Documentation
+
+Welcome to the AICS documentation.
 
 ## Contents
 

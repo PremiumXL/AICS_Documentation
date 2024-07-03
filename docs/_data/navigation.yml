@@ -1,0 +1,10 @@
+main:
+  - title: "Home"
+    url: "/"
+    nav_order: 1
+  - title: "Ticket Assignment Class"
+    url: "/ticket_assignment"
+    nav_order: 2
+  - title: "Daily Ticket Reassignment"
+    url: "/daily_ticket_reassignment"
+    nav_order: 3

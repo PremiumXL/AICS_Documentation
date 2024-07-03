@@ -1,5 +1,5 @@
-remote_theme: just-the-docs/just-the-docs
+remote_theme: pmarsceill/just-the-docs
 title: AICS Documentation
+logo: "/assets/images/logo.png"
 include:
   - assets/css/custom.css
-
